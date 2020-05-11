@@ -24,7 +24,7 @@ sessionStorage 是HTML5新增的一个会话存储对象，用于临时保存同
 
 支持sessionStorage的浏览器最小版本：IE8、Chrome 5。
 
-1.4 适合场景 
+1.4 适合场景
 
 sessionStorage 非常适合SPA(单页应用程序)，可以方便在各业务模块进行传值。
 
@@ -84,4 +84,4 @@ var userJsonStr = sessionStorage.getItem('user');
 
 userEntity = JSON.parse(userJsonStr);
 
-console.log(userEntity.name); // => tom
+console.log(userEntity.name); // => tom 
