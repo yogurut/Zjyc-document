@@ -15,7 +15,7 @@
 
 - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
-- [配色网站](/https://flatuicolors.com)  
+- [配色网站](https://flatuicolors.com)  
 
 - [中国风颜色](http://zhongguose.com )
 
