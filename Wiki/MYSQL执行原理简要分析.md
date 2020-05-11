@@ -21,7 +21,7 @@ mysql主要分为Server层和存储引擎层
 sql可以分为2中，一种是查询，一种是更新（增加，更新，删除）。
 
 ```mysql
-select * from tb_student  A where A.age='18' and A.name='张三';
+select * from tb_student  A where A.age='18' and A.name='张三'; 
 ```
 
 
