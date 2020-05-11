@@ -8,7 +8,7 @@
 4. [解除Tomcat中POST方式上传文件的大小限制](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/解除Tomcat中POST方式上传文件的大小限制.md)
 5. [windows mysql 5.7以上本group by引发的问题](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/windows5.7.md)
 6. [mysql 5.7以上版本group by引发的问题](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/mysql5.7.md)
-7. [JPA 自动更新数据]([https://github.com/SN1997/Zjyc-document/blob/master/Wiki/JPA%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%B0%E6%8D%AE.md](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/JPA自动更新数据.md))
+7. [JPA自动更新数据](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/JPA%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%B0%E6%8D%AE.md)
 8. [Kafuka入门](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Kafka入门.md)
 9. [Mysql执行原理简要分析](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/MYSQL%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%90%86%E7%AE%80%E8%A6%81%E5%88%86%E6%9E%90.md)
 10. [MyBatis JdbcType](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/MyBatisJdbcType.md)
