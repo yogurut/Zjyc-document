@@ -28,7 +28,8 @@
 24. [解除Tomcat中POST方式上传文件的大小限制](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E8%A7%A3%E9%99%A4Tomcat%E4%B8%ADPOST%E6%96%B9%E5%BC%8F%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E7%9A%84%E5%A4%A7%E5%B0%8F%E9%99%90%E5%88%B6.md)
 25. [页面打印时强行分页的处理table换行处理](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%A1%B5%E9%9D%A2%E6%89%93%E5%8D%B0%E6%97%B6%E5%BC%BA%E8%A1%8C%E5%88%86%E9%A1%B5%E7%9A%84%E5%A4%84%E7%90%86table%E6%8D%A2%E8%A1%8C%E5%A4%84%E7%90%86.md)
 26. [发票池](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E5%8F%91%E7%A5%A8%E6%B1%A0.md)
-27. [电信服务器数据盘挂载](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E7%94%B5%E4%BF%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
+27. [电信服务器数据盘挂载-申俊洋](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E7%94%B5%E4%BF%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
+28. [阿里云服务器数据盘挂载-申俊洋](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
 
 
 
