@@ -30,7 +30,7 @@
 26. [发票池](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E5%8F%91%E7%A5%A8%E6%B1%A0.md)
 27. [电信服务器数据盘挂载-申俊洋](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E7%94%B5%E4%BF%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
 28. [阿里云服务器数据盘挂载-申俊洋](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
-29. [vueCheckbox问题修改](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Vuecheckbox%E6%A1%86%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95.md)
+29. [vueCheckbox问题修改-牛育林](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Vuecheckbox%E6%A1%86%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95.md)
 
 
 
