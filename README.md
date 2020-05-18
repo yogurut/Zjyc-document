@@ -53,6 +53,7 @@
 - [音效网站](http://www.aigei.com/sound)
 
 - [页面特效社区](https://codepen.io)
+- [《Effective Java》gitBook](http://veng.gitee.io/effective-java-third-edition/)
 
 
 
