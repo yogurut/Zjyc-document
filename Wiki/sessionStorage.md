@@ -22,6 +22,8 @@ sessionStorage 是HTML5新增的一个会话存储对象，用于临时保存同
 
 1.3 浏览器最小版本支持
 
+
+
 支持sessionStorage的浏览器最小版本：IE8、Chrome 5。
 
 1.4 适合场景
