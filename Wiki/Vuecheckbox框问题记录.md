@@ -36,11 +36,11 @@
 
    #### IE
 
-   ![console](C:\Users\anglexiaoyao\AppData\Roaming\Typora\typora-user-images\image-20200515144404483.png)
+   ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/IE%E7%BB%93%E6%9E%9C%E6%BC%94%E7%A4%BA.png)
 
 火狐
 
-![image-20200515150844154](C:\Users\anglexiaoyao\AppData\Roaming\Typora\typora-user-images\image-20200515150844154.png)
+![](https://github.com/SN1997/Zjyc-document/blob/master/picture/%E7%81%AB%E7%8B%90%E7%BB%93%E6%9E%9C%E6%BC%94%E7%A4%BA.png)
 
-3. click与change区别
+1. click与change区别
    一个是点击就触发，一个是改动后才触发
