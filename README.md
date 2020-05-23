@@ -40,21 +40,15 @@
 ## 实用网站
 
 - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-
 - [配色网站](https://flatuicolors.com)  
-
 - [中国风颜色](http://zhongguose.com )
-
 - [图标库](https://www.iconfont.cn)
-
 - [图标网站](http://www.fontawesome.com.cn/faicons)
-
 - [插件网站](http://www.jq22.com)
-
 - [音效网站](http://www.aigei.com/sound)
-
 - [页面特效社区](https://codepen.io)
 - [《Effective Java》gitBook](http://veng.gitee.io/effective-java-third-edition/)
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 
 
 
