@@ -32,6 +32,7 @@
 28. [阿里云服务器数据盘挂载-申俊洋](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
 29. [vueCheckbox问题修改-牛育林](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Vuecheckbox%E6%A1%86%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95.md)
 30. [包管理工具](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
+31. [Tomcat启动失败调试](https://github.com/SN1997/Zjyc-document/commit/764c4ac7e1f20984394f7e9bab7c4f7dccfb2381)
 
 
 
