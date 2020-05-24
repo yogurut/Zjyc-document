@@ -50,7 +50,6 @@
 - [页面特效社区](https://codepen.io)
 - [《Effective Java》gitBook](http://veng.gitee.io/effective-java-third-edition/)
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
-- 
 
 
 
