@@ -42,7 +42,8 @@
 
 ## 实用网站
 
-- [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+<!-- - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) -->
+- [程序员应该访问的最佳网站中文版](https://gitee.com/shenjunfang/Best-websites-a-programmer-should-visit-zh?_from=gitee_search)
 - [配色网站](https://flatuicolors.com)  
 - [中国风颜色](http://zhongguose.com )
 - [图标库](https://www.iconfont.cn)
