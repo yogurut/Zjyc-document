@@ -33,8 +33,8 @@
 29. [vueCheckbox问题修改-牛育林](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Vuecheckbox%E6%A1%86%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95.md)
 30. [包管理工具](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
 31. [Tomcat启动失败调试](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Tomcat%E5%90%AF%E5%8A%A8%E5%A4%B1%E8%B4%A5%E8%B0%83%E8%AF%95.md)
-32. [Java并发体系](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Java%E5%B9%B6%E5%8F%91%E4%BD%93%E7%B3%BB.md)
-33. [springboot知识导图笔记](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/springboot%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%9B%BE%E7%AC%94%E8%AE%B0.md)
+<!-- 32. [Java并发体系](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Java%E5%B9%B6%E5%8F%91%E4%BD%93%E7%B3%BB.md)
+33. [springboot知识导图笔记](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/springboot%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%9B%BE%E7%AC%94%E8%AE%B0.md) -->
 
 
 
@@ -43,7 +43,7 @@
 ## 实用网站
 
 <!-- - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) -->
-- [程序员应该访问的最佳网站中文版](https://gitee.com/yoguruto/Best-websites-a-programmer-should-visit-zh)
+- [程序员应该访问的最佳网站中文版](https://gitee.com/shenjunfang/Best-websites-a-programmer-should-visit-zh?_from=gitee_search)
 - [配色网站](https://flatuicolors.com)  
 - [中国风颜色](http://zhongguose.com )
 - [图标库](https://www.iconfont.cn)
