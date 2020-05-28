@@ -1,16 +1,17 @@
+# CentOS7.0以上版本系统自带防火墙使用
 一、查看防火墙状态
 
-查看防火墙状态 systemctl status firewalld
+查看防火墙状态 `systemctl status firewalld`
 
-开启防火墙 systemctl start firewalld
+开启防火墙 `systemctl start firewalld`
 
-关闭防火墙 systemctl stop firewalld
+关闭防火墙 `systemctl stop firewalld`
 
 若遇到无法开启
 
-先用：systemctl unmask firewalld.service
+先用：`systemctl unmask firewalld.service`
 
-然后：systemctl start firewalld.service
+然后：`systemctl start firewalld.service`
 
  二、查看对外开放的端口状态
 
