@@ -371,19 +371,29 @@ static String genSerialID() {
 package com.zjyc.scm.gov.entity;
 
 import javax.persistence.*;
+
 import java.io.Serializable;
+
 import java.util.Date;
+
 import java.math.BigDecimal;
 
 /**
+
  * @Description  
+ 
  * @Author  qiutao
+ 
  * @Date 2020-06-03 17:08:37 
+ 
  */
 
 @Entity
+
 @Table (name = "t_gov_fact_apply" , schema = "")
+
 @NamedQuery (name = "GovFactApply.findAll" , query = "SELECT b FROM GovFactApply b")
+
 public class GovFactApply implements Serializable {
 
 	private static final long serialVersionUID =  3293967171659979508L;
