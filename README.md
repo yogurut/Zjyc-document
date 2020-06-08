@@ -36,6 +36,7 @@
 32. [CentOS7.0以上版本系统自带防火墙使用](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/CentOS7.0%E4%BB%A5%E4%B8%8A%E7%89%88%E6%9C%AC%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%B8%A6%E9%98%B2%E7%81%AB%E5%A2%99%E4%BD%BF%E7%94%A8.md)
 33. [高并发下数据状态校验测试](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%AB%98%E5%B9%B6%E5%8F%91%E4%B8%8B%E6%95%B0%E6%8D%AE%E7%8A%B6%E6%80%81%E6%A0%A1%E9%AA%8C%E6%B5%8B%E8%AF%95-%E9%82%B1%E6%B6%9B.md)
 34. [idea自动生成jpa实体类](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/idea%E7%94%9F%E6%88%90jpa%E5%AE%9E%E4%BD%93%E7%B1%BB-%E9%82%B1%E6%B6%9B.md)
+35. [预览或生成PDF实现换页](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%A2%84%E8%A7%88%E6%88%96%E8%80%85%E7%94%9F%E6%88%90PDF%E5%AE%9E%E7%8E%B0%E6%8D%A2%E9%A1%B5.md)
 <!-- 32. [Java并发体系](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Java%E5%B9%B6%E5%8F%91%E4%BD%93%E7%B3%BB.md)
 33. [springboot知识导图笔记](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/springboot%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%9B%BE%E7%AC%94%E8%AE%B0.md) -->
 
