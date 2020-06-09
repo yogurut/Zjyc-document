@@ -30,6 +30,15 @@
 26. [发票池](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E5%8F%91%E7%A5%A8%E6%B1%A0.md)
 27. [电信服务器数据盘挂载-申俊洋](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E7%94%B5%E4%BF%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
 28. [阿里云服务器数据盘挂载-申俊洋](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%98%BF%E9%87%8C%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%B0%E6%8D%AE%E7%9B%98%E6%8C%82%E8%BD%BD-%E7%94%B3%E4%BF%8A%E6%B4%8B.md)
+29. [vueCheckbox问题修改-牛育林](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Vuecheckbox%E6%A1%86%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95.md)
+30. [包管理工具](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
+31. [Tomcat启动失败调试](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Tomcat%E5%90%AF%E5%8A%A8%E5%A4%B1%E8%B4%A5%E8%B0%83%E8%AF%95.md)
+32. [CentOS7.0以上版本系统自带防火墙使用](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/CentOS7.0%E4%BB%A5%E4%B8%8A%E7%89%88%E6%9C%AC%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%B8%A6%E9%98%B2%E7%81%AB%E5%A2%99%E4%BD%BF%E7%94%A8.md)
+33. [高并发下数据状态校验测试](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%AB%98%E5%B9%B6%E5%8F%91%E4%B8%8B%E6%95%B0%E6%8D%AE%E7%8A%B6%E6%80%81%E6%A0%A1%E9%AA%8C%E6%B5%8B%E8%AF%95-%E9%82%B1%E6%B6%9B.md)
+34. [idea自动生成jpa实体类](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/idea%E7%94%9F%E6%88%90jpa%E5%AE%9E%E4%BD%93%E7%B1%BB-%E9%82%B1%E6%B6%9B.md)
+35. [预览或生成PDF实现换页](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/%E9%A2%84%E8%A7%88%E6%88%96%E8%80%85%E7%94%9F%E6%88%90PDF%E5%AE%9E%E7%8E%B0%E6%8D%A2%E9%A1%B5.md)
+<!-- 32. [Java并发体系](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/Java%E5%B9%B6%E5%8F%91%E4%BD%93%E7%B3%BB.md)
+33. [springboot知识导图笔记](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/springboot%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%9B%BE%E7%AC%94%E8%AE%B0.md) -->
 
 
 
@@ -37,21 +46,17 @@
 
 ## 实用网站
 
-- [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-
+<!-- - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) -->
+- [程序员应该访问的最佳网站中文版](https://gitee.com/shenjunfang/Best-websites-a-programmer-should-visit-zh?_from=gitee_search)
 - [配色网站](https://flatuicolors.com)  
-
 - [中国风颜色](http://zhongguose.com )
-
 - [图标库](https://www.iconfont.cn)
-
 - [图标网站](http://www.fontawesome.com.cn/faicons)
-
 - [插件网站](http://www.jq22.com)
-
 - [音效网站](http://www.aigei.com/sound)
-
 - [页面特效社区](https://codepen.io)
+- [《Effective Java》gitBook](http://veng.gitee.io/effective-java-third-edition/)
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 
 
 
