@@ -61,6 +61,7 @@
 - [《Effective Java》gitBook](http://veng.gitee.io/effective-java-third-edition/)
 - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [美团技术文档](https://tech.meituan.com/)
+- [奇迹秀工具箱](http://www.qijishow.com/down/index.html)
 
 
 
