@@ -2,10 +2,10 @@
 
 ## wiki 目录
 
-1. [sessionStriage](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/sessionStorage.md)
-2. [Windows查看端口占用](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/windows查看端口占用进程和杀死进程.md)
-3. [For-each不能修改数值](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/for-each不能修改数组值.md)
-4. [解除Tomcat中POST方式上传文件的大小限制](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/解除Tomcat中POST方式上传文件的大小限制.md)
+1. [sessionStriage](/Wiki/sessionStorage.md)
+2. [Windows查看端口占用](/Wiki/windows查看端口占用进程和杀死进程.md)
+3. [For-each不能修改数值](/Wiki/for-each不能修改数组值.md)
+4. [解除Tomcat中POST方式上传文件的大小限制](/Wiki/解除Tomcat中POST方式上传文件的大小限制.md)
 5. [windows mysql 5.7以上本group by引发的问题](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/windows5.7.md)
 6. [mysql 5.7以上版本group by引发的问题](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/mysql5.7.md)
 7. [JPA自动更新数据](https://github.com/SN1997/Zjyc-document/blob/master/Wiki/JPA%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%B0%E6%8D%AE.md)
