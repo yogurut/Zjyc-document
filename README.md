@@ -40,7 +40,7 @@
 36. [ServiceImpl类中方法上加synchronized不起作用](/Wiki/ServiceImpl%E4%B8%AD%E5%8A%A0synchronized%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8-%E9%82%B1%E6%B6%9B.md)
 37. [Mysql三种插入方式](/Wiki/mysql%203%E7%A7%8D%E6%8F%92%E5%85%A5%E6%96%B9%E5%BC%8F-%E9%82%B1%E6%B6%9B.md)
 38. [代码审查工具](/Wiki/review%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5.md)
-39. [vue基础](/wike/vue基础.md)
+39. [vue基础](Wiki/vue基础.md)
 <!-- 32. [Java并发体系](/Wiki/Java%E5%B9%B6%E5%8F%91%E4%BD%93%E7%B3%BB.md)
 33. [springboot知识导图笔记](/Wiki/springboot%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%9B%BE%E7%AC%94%E8%AE%B0.md) -->
 
