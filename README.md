@@ -43,6 +43,7 @@
 39. [vue基础](Wiki/vue基础.md)
 40. [es6扩展运算符三个点（...）](Wiki/es6扩展运算符三个点（...）.md)
 41. [Vuex中的核心应用store(仓库)](Wiki/Vuex中的核心应用store(仓库).md)
+42. [京东项目开具及发票池](Wiki/open.md)
 <!-- 32. [Java并发体系](/Wiki/Java%E5%B9%B6%E5%8F%91%E4%BD%93%E7%B3%BB.md)
 33. [springboot知识导图笔记](/Wiki/springboot%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%9B%BE%E7%AC%94%E8%AE%B0.md) -->
 
