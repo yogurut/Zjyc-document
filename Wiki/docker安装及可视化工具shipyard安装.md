@@ -10,23 +10,23 @@
 
  **1.**   **更新yum云：** 
 
-   \# yum update
+   \# `yum update`
 
  **2.  yum安装docker：**
 
-​      \# sudo yum install docker
+​   \# `sudo yum install docker`
 
 
 
 **3. 启动Docker，并设置为开机启动：**
 
-  \# service docker start
+  \# `service docker start`
 
-  \# chkconfig docker on
+  \# `chkconfig docker on`
 
 **4. 测试安装是否成功**
 
-​      \# docker version
+​  \# `docker version`
 
 
 
@@ -44,7 +44,7 @@
 
 ​    **1.设置防火墙：如果不设置防火墙的话，安装成功shipyard后，虽然能打开web页面，但是看不到本地容器和镜像**
 
-*# firewall*-*cmd* --*zone=public* --*permanent* --*add*-*port=2375/tcp*
+*# `firewall*-*cmd* --*zone=public* --*permanent* --*add*-*port=2375/tcp`*
 
 *提示：success*
 
@@ -56,19 +56,19 @@
 
 
 
- \# docker pull rethinkdb
+\#   `docker pull rethinkdb`
 
-​    \# docker pull microbox/etcd
+​    \# `docker pull microbox/etcd`
 
-​    \# docker pull shipyard/docker-proxy
+​    \# `docker pull shipyard/docker-proxy`
 
-​    \# docker pull swarm
+​    \# `docker pull swarm`
 
-​    \# docker pull dockerclub/shipyard
+​    \# `docker pull dockerclub/shipyard`
 
 ​    **3.运行脚本：**
 
-\# ./docker-shipyard.sh
+\# `./docker-shipyard.sh`
 
 [docker-shipyard.sh](https://file.devcloud.huaweicloud.com/detail/82861b78e5bf48d690bb6bee248c6462/2723341/list)
 
@@ -86,11 +86,11 @@
 
 ​    **两个文件拷贝到服务器linux控制端依次输入**
 
-​    \# sh shipyard_restart.sh stop
+​    \# `sh shipyard_restart.sh stop`
 
-​    \# sh shipyard_restart.sh rm
+​    \# `sh shipyard_restart.sh rm`
 
-​    \# sh deploy
+​    \# `sh deploy`
 
 ​    在8080端口访问shipyard
 
