@@ -44,12 +44,7 @@
 40. [es6扩展运算符三个点（...）](Wiki/es6扩展运算符三个点（...）.md)
 41. [Vuex中的核心应用store(仓库)](Wiki/Vuex中的核心应用store(仓库).md)
 42. [京东项目开具及发票池](Wiki/open.md)
-43. [Mysql优化方案](Wiki/MYSQL之sql优化方案.md)
-
-
-
-
-
+43. [Mysql优化方案](Wiki/MYSQL之sql优化方案.md) 
 
 
 
