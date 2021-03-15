@@ -31,7 +31,7 @@ Jenkins拥有的特性包括：
 
 - 修改Jenkins的端口号，通过vim /etc/sysconfig/Jenkins
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551338672671.png)
+​    ![1551338672671](https://gitee.com/yoguruto/image/raw/master/img/1551338672671.png)
 
 ​    service jenkins restart” 启动jenkins
 
@@ -39,13 +39,13 @@ Jenkins拥有的特性包括：
 
 ​    默认密码位置
 
-   ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551338741650.png)
+   ![1551338741650](https://gitee.com/yoguruto/image/raw/master/img/1551338741650.png)
 
 - jenkins中配置JDK和maven
 
    需要在linux中安装配置路径为linux中的安装地址
 
-![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551338826463.png)
+![1551338826463](https://gitee.com/yoguruto/image/raw/master/img/1551338826463.png)
 
 - 下载插件
 
@@ -57,29 +57,29 @@ Jenkins拥有的特性包括：
 
 - 配置SSH远程服务器：
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551338984907.png)
+​    ![1551338984907](https://gitee.com/yoguruto/image/raw/master/img/1551338984907.png)
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339044912.png)
+​    ![1551339044912](https://gitee.com/yoguruto/image/raw/master/img/1551339044912.png)
 
 -   创建项目
 
-​      ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339096512.png)
+​      ![1551339096512](https://gitee.com/yoguruto/image/raw/master/img/1551339096512.png)
 
-  ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339105092.png)
+  ![1551339105092](https://gitee.com/yoguruto/image/raw/master/img/1551339105092.png)
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339109757.png)
+​    ![1551339109757](https://gitee.com/yoguruto/image/raw/master/img/1551339109757.png)
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339116894.png)
+​    ![1551339116894](https://gitee.com/yoguruto/image/raw/master/img/1551339116894.png)
 
   远程服务器部署：
 
-​     ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339131648.png)
+​     ![1551339131648](https://gitee.com/yoguruto/image/raw/master/img/1551339131648.png)
 
 
 
   本服务器部署：
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339142730.png)
+​    ![1551339142730](https://gitee.com/yoguruto/image/raw/master/img/1551339142730.png)
 
 ​    通过shell脚本执行
 
@@ -89,14 +89,10 @@ Jenkins拥有的特性包括：
 
 - 部署
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339242106.png)
-
 ​    点击按钮进行部署
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339257909.png)查看控制台输出日志
+​    ![1551339257909](https://gitee.com/yoguruto/image/raw/master/img/1551339257909.png)查看控制台输出日志
 
-​    ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339272964.png)
-
-​      ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1551339283920.png)
+​    ![1551339272964](https://gitee.com/yoguruto/image/raw/master/img/1551339272964.png)
 
   后续待补充。
