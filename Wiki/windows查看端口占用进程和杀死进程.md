@@ -11,3 +11,4 @@ netstat -ano | findstr 需要查询的端口号
 taskkill /pid 占用的进程号 /f
 
 ![](https://github.com/SN1997/Zjyc-document/blob/master/picture/1588063305276.png)
+
